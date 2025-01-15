@@ -5,8 +5,13 @@
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/osuAkatsuki/bancho.py/master.svg)](https://results.pre-commit.ci/latest/github/osuAkatsuki/bancho.py/master)
 [![Discord](https://discordapp.com/api/guilds/748687781605408908/widget.png?style=shield)](https://discord.gg/ShEQgUx)
 
-**bancho.py-ex** is a fork of **[bancho.py](https://github.com/osuAkatsuki)** that
-tries to make bancho.py more suitable for public server use
+bancho.py-ex is an in-progress osu! server implementation for developers of all levels of experience interested in hosting their own osu private server instance(s).
+
+the project is developed primarily by the Akatsuki team, and our aim is to create the most easily maintainable, reliable, and feature-rich osu! server implementation available.
+
+the main developer of bancho.py-ex is osuNoLimits
+
+If you are interested in running or contributing to bancho.py, you should head over to the bancho.py wiki.
 
 ## Extra features 
 - 🧩 Redis pubsubs for: [(wiki)](https://github.com/osu-NoLimits/bancho.py-ex/wiki/Pubsubs) 
