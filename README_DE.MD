@@ -12,3 +12,4 @@ private(n) osu-Server-Instanz(en) zu hosten
 Das Projekt wird hauptsächlich vom [Akatsuki](https://akatsuki.pw/)-Team entwickelt,
 und unser Ziel ist es, die am einfachsten zu wartende, zuverlässigste und
 funktionsreichste osu!-Server-Implementierung auf dem Markt zu schaffen.
+2 penisar
