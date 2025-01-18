@@ -103,8 +103,9 @@ async def fetch_count(
     write_priv: int | None = None,
     auto_join: bool | None = None,
 ) -> int:
-    if read_priv is None and write_priv is None and auto_join is None:
-        raise ValueError("Must provide at least one parameter.")
+    # TODO: why is this here???
+    #if read_priv is None and write_priv is None and auto_join is None:
+    #    raise ValueError("Must provide at least one parameter.")
 
     select_stmt = select(func.count().label("count")).select_from(ChannelsTable)
 
