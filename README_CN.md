@@ -21,4 +21,3 @@ bancho.py 是一个还在被不断维护的osu!后端项目，不论你的水平
 他们团队开发的前端项目。
 api文档(英语)：<https://github.com/JKBGL/gulag-api-docs>
 前端(guweb)：<https://github.com/Varkaria/guweb>
-penis
