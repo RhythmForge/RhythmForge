@@ -1,6 +1,8 @@
 # RhythmForge-Server
 
-![RhythmForge](https://github.com/RhythmForge/RhythmForge-Server/blob/c38d7501e04d1390f999d7f28d30256c4b518330/.github/images/RHYTHMFORGE_LOGO_FINAL_256x256.jpg)
+<p align="center">
+<img src="https://github.com/RhythmForge/RhythmForge-Server/blob/c38d7501e04d1390f999d7f28d30256c4b518330/.github/images/RHYTHMFORGE_LOGO_FINAL_256x256.jpg" alt="RhythmForge"/>
+</p>
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
