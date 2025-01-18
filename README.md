@@ -1,5 +1,7 @@
 # RhythmForge-Server
 
+![RhythmForge](https://github.com/RhythmForge/RhythmForge-Server/blob/c38d7501e04d1390f999d7f28d30256c4b518330/.github/images/RHYTHMFORGE_LOGO_FINAL_256x256.jpg)
+
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/osuAkatsuki/bancho.py/master.svg)](https://results.pre-commit.ci/latest/github/osuAkatsuki/bancho.py/master)
