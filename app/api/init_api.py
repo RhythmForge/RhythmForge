@@ -23,6 +23,7 @@ from starlette.middleware.base import RequestResponseEndpoint
 from starlette.requests import ClientDisconnect
 
 from .start import *
+from ..irc import *
 
 import app.bg_loops
 import app.settings
@@ -106,6 +107,8 @@ async def lifespan(asgi_app: BanchoAPI) -> AsyncIterator[None]:
     await collections.initialize_ram_caches()
 
     await app.bg_loops.initialize_housekeeping_tasks()
+    
+    start_irc_handler()
 
     log("Startup process complete.", Ansi.LGREEN)
     log(
